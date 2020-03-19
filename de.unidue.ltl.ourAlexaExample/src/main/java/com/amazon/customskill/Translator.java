@@ -6,6 +6,7 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 import java.nio.charset.StandardCharsets;
 
+//Verbindung zum Whatsmate Translate API herstellen
 public class Translator {
   
 	private static final String CLIENT_ID = "phenguyen93@gmail.com";
