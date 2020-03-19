@@ -12,7 +12,7 @@ import com.squareup.okhttp.Request;
 import com.squareup.okhttp.RequestBody;
 import com.squareup.okhttp.Response;
 
-
+//die Methode für Musik "Titel und Künstlername holen und zurückgeben"
 public class Musik {
 	
 	public String findTrack(String track) throws IOException, JSONException {
